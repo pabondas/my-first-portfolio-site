@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0px;
 }
 h1{
     font-size: 60px;
@@ -22,6 +23,9 @@ section{
     background-image: linear-gradient(orange , yellow);
     padding: 10px 40px;
     color: black;
-    
     border-radius: 7px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
